@@ -1,1 +1,1 @@
-0x00 : Hello, World.
+0x14-bit_manipulation
